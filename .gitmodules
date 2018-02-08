@@ -1,0 +1,3 @@
+[submodule "BaseLibraryModule"]
+	path = BaseLibraryModule
+	url = https://github.com/zhuzhanpeng/BaseLibraryModule.git
